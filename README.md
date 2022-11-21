@@ -27,7 +27,7 @@
 "Database"        : ['FireStore', 'Hive', 'Sqlite',]
 "Tools"           : ['Xcode','Git','Postman','VS code', 'Slack', 'Trello', 'Android Studio', 'Adobe XD', 'Figma', 'Dart Dev Tool']
 "Problem solving" : ['Codewars'],
-"Profile"         : ['https://www.codewars.com/users/Razu%20ahmed'],
+"Profile"         : ['https://www.codewars.com/users/razuahmed75'],
 }
 ```
 
