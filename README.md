@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Razu ahmed</h1>
 <h3 align="center">A passionate Flutter developer from Bangladesh</h3>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Software+Engineer;Open+Source+Contributor;Problem+Solver;Full+Stack+Web+Developer;Contenet+creator;Tech+Enthusiast" alt="Typing SVG" /></a></h3>
+<h3 align="right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Software+Engineer;Open+Source+Contributor;Problem+Solver;Full+Stack+Web+Developer;Contenet+creator;Tech+Enthusiast" alt="Typing SVG" /></a></h3>
 <img align='right' alt='Coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razu75&label=Profile%20views&color=0e75b6&style=flat" alt="razu75" /> </p>
 <p align="left"> <a href="https://twitter.com/razuahmed8641" target="blank"><img src="https://img.shields.io/twitter/follow/razuahmed8641?logo=twitter&style=for-the-badge" alt="razuahmed8641" /></a> </p>
