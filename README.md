@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Razu ahmed</h1>
 <h3 align="center">A passionate Flutter developer from Bangladesh</h3>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Open+Source+Contributor;Problem+Solver;Full+Stack+Web+Developer;Contenet+creator;Tech+Enthusiast" alt="Typing SVG" /></a></h3>
-<img align='right' alt='Coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
+<img align='right' alt='Coding' width='400' src='https://camo.githubusercontent.com/8ba1e66bcfa048214cf17f235c341742347c9c248831d044aa888acbeec89502/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6d656469612f66636637666430633631396262383737303635333330373932343039313566332e676966'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razu75&label=Profile%20views&color=0e75b6&style=flat" alt="razu75" /> </p>
 <p align="left"> <a href="https://twitter.com/razuahmed8641" target="blank"><img src="https://img.shields.io/twitter/follow/razuahmed8641?logo=twitter&style=for-the-badge" alt="razuahmed8641" /></a> </p>
 
