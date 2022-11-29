@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Razu ahmed</h1>
 <h3 align="center">A passionate Flutter developer from Bangladesh</h3>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Open+Source+Contributor;Problem+Solver;Full+Stack+Web+Developer;Content+creator;Tech+Enthusiast" alt="Typing SVG" /></a></h3>
@@ -50,5 +49,6 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
 </p>
-
+ 
+![](https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg)
 
