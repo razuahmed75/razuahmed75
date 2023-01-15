@@ -51,12 +51,10 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
 </p>
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=razuahmed75&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="razuahmed75" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razuahmed75&show_icons=true&theme=tokyonight" alt="razuahmed75" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razuahmed75&" alt="razuahmed75" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razuahmed75&show_icons=true&theme=highcontrast" alt="razuahmed75" /></p>
 
 ![](https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg)
 
