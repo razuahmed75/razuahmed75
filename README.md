@@ -55,7 +55,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razuahmed75&show_icons=true&theme=tokyonight" alt="razuahmed75" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razuahmed75&theme=highcontrast" alt="razuahmed75" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razuahmed75&" alt="razuahmed75" /></p>
 
 ![](https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg)
 
