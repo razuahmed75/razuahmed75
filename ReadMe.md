@@ -14,7 +14,7 @@
 - 💬 Ask me about **Dart, Flutter, UX-UI, Andriod, Kotlin, Swift, iOS**
 
 - 📫 How to reach me **razuahmed8641@gmail.com or Direct Contact: +8801706-084790**
-- 📄 Know about my experiences https://rb.gy/w7ccy
+- 📄 Know about my experiences https://rb.gy/lw27t
 
 - ⚡ Fun fact **coffee and bugs**
 
