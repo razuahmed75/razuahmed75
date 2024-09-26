@@ -29,7 +29,7 @@
 "state management": ['GetX','Provider','BLoC']
 "Database"        : ['FireStore', 'Hive', 'Sqlite',]
 "Tools"           : ['Xcode','Git','Postman','VS code','Android Studio','Figma']
-"Problem solving"         : ['Codewars'] ['https://www.codewars.com/users/razuahmed75'],
+"Problem solving" : ['Codewars'] ['https://www.codewars.com/users/razuahmed75']
 }
 ```
 
