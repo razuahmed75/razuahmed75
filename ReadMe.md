@@ -28,7 +28,7 @@
 "Backend"         : ['FireBase','RestAPI']
 "state management": ['GetX','Provider','BLoC']
 "Database"        : ['FireStore', 'Hive', 'Sqlite']
-"Problem solving" : ['Codewars'] ['https://www.codewars.com/users/razuahmed75']
+"Problem solving" : ['Codewars']['https://www.codewars.com/users/razuahmed75']
 "Tools"           : ['Xcode','Git','Postman','VS code','Android Studio','Figma']
 }
 ```
