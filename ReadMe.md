@@ -63,7 +63,7 @@
     <td align="center" width="50%">
       <h3>🎁 Giftily Mobile App </h3>
       <a href="https://play.google.com/store/apps/details?id=com.giftily_dz.app&hl=en">
-        <img width="954" height="445" alt="Giftily" src="https://github.com/user-attachments/assets/40b99539-c7af-4e69-abc5-1933ddc99104" />
+        <img width="954" height="545" alt="Giftily" src="https://github.com/user-attachments/assets/40b99539-c7af-4e69-abc5-1933ddc99104" />
       </a>
       <p>
         Game Top-Ups & Gift Cards<br/>
