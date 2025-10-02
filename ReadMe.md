@@ -71,11 +71,11 @@
       <p>
         🎁 Game Top-Ups & Gift Cards<br/>
         <a href="https://play.google.com/store/apps/details?id=com.giftily_dz.app&hl=en" target="_blank">
-          <img alt="googleplay" src="https://github.com/user-attachments/assets/e76ddbbc-e01e-40f3-894c-2831ededb6fa" style="width: 40px; height: 40px; object-fit: cover; border-radius: 5px;" />
+          <img alt="googleplay" src="https://github.com/user-attachments/assets/e76ddbbc-e01e-40f3-894c-2831ededb6fa" style="width: 30px; height: 30px; object-fit: cover; border-radius: 5px;" />
         </a>
         <span style="margin-left: 10px;"></span>
         <a href="https://codecanyon.net/item/gamers-arena-on-demand-game-shop-cross-platform-mobile-application/51225336" target="_blank">
-          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 30px; height: 30px; object-fit: cover; border-radius: 10px;" />
         </a>
       </p>
     </td>
@@ -87,11 +87,15 @@
       <p>
         💳 Bill Payment & Mobile Recharge<br/>
         <a href="https://play.google.com/store/apps/details?id=com.golala.billpayment&hl=en" target="_blank">
-          <img alt="googleplay" src="https://github.com/user-attachments/assets/e76ddbbc-e01e-40f3-894c-2831ededb6fa" style="width: 40px; height: 40px; object-fit: cover; border-radius: 5px;" />
+          <img alt="googleplay" src="https://github.com/user-attachments/assets/e76ddbbc-e01e-40f3-894c-2831ededb6fa" style="width: 30px; height: 30px; object-fit: cover; border-radius: 5px;" />
+        </a>
+        <span style="margin-left: 10px;"></span>
+        <a href="https://apps.apple.com/us/app/golala-billpay-solutions/id6743252509" target="_blank">
+          <img alt="appstore" src="https://github.com/user-attachments/assets/18d6afd9-d392-45a5-8dbd-4953fb423ab5" style="width: 30px; height: 30px; object-fit: cover; border-radius: 5px;" />
         </a>
         <span style="margin-left: 10px;"></span>
         <a href="https://codecanyon.net/item/bill-pay-topup-recharge-and-utility-bill-payment-mobile-app/50124639?s_rank=26" target="_blank">
-          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 30px; height: 30px; object-fit: cover; border-radius: 10px;" />
         </a>
       </p>
     </td>
@@ -106,11 +110,11 @@
       <p>
         🌱 Agricultural Investment Platform<br/>
         <a href="https://play.google.com/store/apps/details?id=com.stip.club" target="_blank">
-          <img alt="googleplay" src="https://github.com/user-attachments/assets/e76ddbbc-e01e-40f3-894c-2831ededb6fa" style="width: 40px; height: 40px; object-fit: cover; border-radius: 5px;" />
+          <img alt="googleplay" src="https://github.com/user-attachments/assets/e76ddbbc-e01e-40f3-894c-2831ededb6fa" style="width: 30px; height: 30px; object-fit: cover; border-radius: 5px;" />
         </a>
         <span style="margin-left: 10px;"></span>
         <a href="https://codecanyon.net/item/agriwealth-agricultural-hyip-investment-mobile-application-android-ios/55396787?s_rank=15" target="_blank">
-          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 30px; height: 30px; object-fit: cover; border-radius: 10px;" />
         </a>
       </p>
     </td>
@@ -122,7 +126,7 @@
       <p>
         📍 Business Directory Listing<br/>
         <a href="https://codecanyon.net/item/listplace-business-directory-listing-flutter-app-android-ios/57380835?s_rank=10" target="_blank">
-          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 30px; height: 30px; object-fit: cover; border-radius: 10px;" />
         </a>
       </p>
     </td>
@@ -138,7 +142,7 @@
       <p>
         💰 Investment Management<br/>
         <a href="https://codecanyon.net/item/hyip-pro-cross-platform-mobile-application/49701045?s_rank=28" target="_blank">
-          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 30px; height: 30px; object-fit: cover; border-radius: 10px;" />
         </a>
       </p>
     </td>
@@ -150,7 +154,7 @@
       <p>
         🪙 Cryptocurrency Exchange Companion<br/>
         <a href="https://codecanyon.net/item/coinectra-buy-sell-and-crypto-currency-exchange-flutter-app-android-ios/58421141?s_rank=6" target="_blank">
-          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 30px; height: 30px; object-fit: cover; border-radius: 10px;" />
         </a>
       </p>
     </td>
@@ -165,7 +169,7 @@
       <p>
         💸 Digital Wallet & Remittance<br/>
         <a href="https://codecanyon.net/item/waiz-digital-wallet-and-remittance-app-and-website-with-admin-panel/53238316?s_rank=22" target="_blank">
-          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 30px; height: 30px; object-fit: cover; border-radius: 10px;" />
         </a>
       </p>
     </td>
@@ -177,7 +181,7 @@
       <p>
         🔐 Full Digital Wallet Ecosystem<br/>
         <a href="https://codecanyon.net/item/paysecure-digital-wallet-flutter-app-android-ios/58040829?s_rank=7" target="_blank">
-          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 30px; height: 30px; object-fit: cover; border-radius: 10px;" />
         </a>
       </p>
     </td>
@@ -192,7 +196,7 @@
       <p>
         🔐 Full Digital Wallet Ecosystem<br/>
         <a href="https://codecanyon.net/item/pay-secure-digital-wallet-application-for-merchant-android-ios/58793831?s_rank=1" target="_blank">
-          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 30px; height: 30px; object-fit: cover; border-radius: 10px;" />
         </a>
       </p>
     </td>
@@ -204,7 +208,7 @@
       <p>
         🔐 Full Digital Wallet Ecosystem<br/>
         <a href="https://codecanyon.net/item/pay-secure-digital-wallet-application-for-agent-android-ios/58793829?s_rank=2" target="_blank">
-          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 30px; height: 30px; object-fit: cover; border-radius: 10px;" />
         </a>
       </p>
     </td>
