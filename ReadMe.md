@@ -118,7 +118,7 @@
     <td align="center" width="50%">
       <h3>📍 Listplace Mobile App</h3>
       <a href="https://codecanyon.net/item/listplace-business-directory-listing-flutter-app-android-ios/57380835?s_rank=10">
-        <img width="590" height="300" alt="Listplace" src="https://github.com/user-attachments/assets/b9339b9d-13d5-4711-aa04-bcecda5ac212" />
+        <img width="953" height="446" alt="Listplace" src="https://github.com/user-attachments/assets/b9339b9d-13d5-4711-aa04-bcecda5ac212" />
       </a>
       <p>
         Business Directory Listing<br/>
@@ -144,7 +144,7 @@
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>🪙 Coinectra Mobile App</h3>
+      <h3>💎 Coinectra Mobile App ✨</h3>
       <a href="https://codecanyon.net/item/coinectra-buy-sell-and-crypto-currency-exchange-flutter-app-android-ios/58421141?s_rank=6">
         <img width="590" height="300" alt="Coinectra" src="https://github.com/user-attachments/assets/b6bf4d30-e892-4845-8b18-f1994d580ba0" />
       </a>
@@ -171,7 +171,7 @@
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>🔐 Paysecure-User Mobile Appr</h3>
+      <h3>🔐 Paysecure-User Mobile App</h3>
       <a href="https://codecanyon.net/item/paysecure-digital-wallet-flutter-app-android-ios/58040829?s_rank=7">
         <img width="590" height="300" alt="PaySecure User" src="https://github.com/user-attachments/assets/b2e92853-3fc8-450a-bb64-7ed0200b6c05" />
       </a>
