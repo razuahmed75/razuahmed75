@@ -33,6 +33,10 @@
 }
 ```
 
+| Stack Overflow | Codewars |
+| :---: | :---: |
+| [![Stack Overflow](https://stackoverflow.com/users/flair/18243970.png)](https://stackoverflow.com/users/18243970/razu-ahmed) | [![Codewars Logo](https://www.codewars.com/users/razuahmed75/badges/large)](https://www.codewars.com/users/razuahmed75) |
+
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
