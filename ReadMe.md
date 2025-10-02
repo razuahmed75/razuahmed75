@@ -210,6 +210,21 @@
       </p>
     </td>
   </tr>
+
+   <tr>
+    <td align="center" width="50%">
+      <h3>🛒 ShopSpheret Mobile App</h3>
+      <a href="https://github.com/razuahmed75/E-Commerce-App">
+        <img width="590" height="300" alt="PaySecure Merchant" src="https://github.com/user-attachments/assets/cc954f45-4c82-479a-b29c-5c1d8bb1c35a" />
+      </a>
+      <p>
+        E-Commerce App<br/>
+        <a href="https://github.com/razuahmed75/E-Commerce-App" target="_blank">
+          <img alt="github" src="https://github.com/user-attachments/assets/38a02728-3987-4e90-a6c8-a52dae372ae4" style="width: 30px; height: 30px; />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 
