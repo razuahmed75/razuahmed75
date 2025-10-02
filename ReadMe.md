@@ -64,7 +64,7 @@
   <!-- First row: Giftily & Golola BillPay -->
   <tr>
     <td align="center" width="50%">
-      <h3>Giftily</h3>
+      <h3>Giftily Mobile App</h3>
       <a href="https://play.google.com/store/apps/details?id=com.giftily_dz.app&hl=en">
         <img width="954" height="445" alt="Giftily" src="https://github.com/user-attachments/assets/701a0f6e-7343-460e-ab5f-d068cb5b5500" />
       </a>
@@ -80,7 +80,7 @@
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>Golola BillPay</h3>
+      <h3>Golala BillPay Mobile App</h3>
       <a href="https://play.google.com/store/apps/details?id=com.golala.billpayment&hl=enp">
         <img width="953" height="446" alt="Golala" src="https://github.com/user-attachments/assets/7132c5ce-f9cb-4e00-80f0-3ee83b046d31" />
       </a>
@@ -103,7 +103,7 @@
 
   <tr>
     <td align="center" width="50%">
-      <h3>AgriWealth</h3>
+      <h3>Agriwealth Mobile App</h3>
       <a href="https://play.google.com/store/apps/details?id=com.stip.club">
         <img width="953" height="446" alt="AgriWealth" src="https://github.com/user-attachments/assets/544c898f-4cd9-4c2c-9612-09da54285b9d" />
       </a>
@@ -119,7 +119,7 @@
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>Listplace</h3>
+      <h3>Listplace Mobile App</h3>
       <a href="https://codecanyon.net/item/listplace-business-directory-listing-flutter-app-android-ios/57380835?s_rank=10">
         <img width="590" height="300" alt="Listplace" src="https://github.com/user-attachments/assets/b9339b9d-13d5-4711-aa04-bcecda5ac212" />
       </a>
@@ -135,7 +135,7 @@
   <!-- Remaining rows only Envato icon -->
   <tr>
     <td align="center" width="50%">
-      <h3>HYIP PRO</h3>
+      <h3>HYIP PRO Mobile App</h3>
       <a href="https://codecanyon.net/item/hyip-pro-cross-platform-mobile-application/49701045?s_rank=28">
         <img width="590" height="300" alt="HYIP PRO" src="https://github.com/user-attachments/assets/2bcd30de-ea3a-4058-b474-c0dd595979c9" />
       </a>
@@ -147,7 +147,7 @@
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>Coinectra</h3>
+      <h3>Coinectra Mobile App</h3>
       <a href="https://codecanyon.net/item/coinectra-buy-sell-and-crypto-currency-exchange-flutter-app-android-ios/58421141?s_rank=6">
         <img width="590" height="300" alt="Coinectra" src="https://github.com/user-attachments/assets/b6bf4d30-e892-4845-8b18-f1994d580ba0" />
       </a>
@@ -162,7 +162,7 @@
 
   <tr>
     <td align="center" width="50%">
-      <h3>Waiz</h3>
+      <h3>Waiz Mobile App</h3>
       <a href="https://codecanyon.net/item/waiz-digital-wallet-and-remittance-app-and-website-with-admin-panel/53238316?s_rank=22">
         <img width="590" height="300" alt="Waiz" src="https://github.com/user-attachments/assets/2a7bc050-297b-41ee-80da-3782c390ea1e" />
       </a>
@@ -174,7 +174,7 @@
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>PaySecure User</h3>
+      <h3>Paysecure-User Mobile Appr</h3>
       <a href="https://codecanyon.net/item/paysecure-digital-wallet-flutter-app-android-ios/58040829?s_rank=7">
         <img width="590" height="300" alt="PaySecure User" src="https://github.com/user-attachments/assets/b2e92853-3fc8-450a-bb64-7ed0200b6c05" />
       </a>
@@ -189,7 +189,7 @@
 
   <tr>
     <td align="center" width="50%">
-      <h3>PaySecure Merchant</h3>
+      <h3>Paysecure-Merchant Mobile App</h3>
       <a href="https://codecanyon.net/item/pay-secure-digital-wallet-application-for-merchant-android-ios/58793831?s_rank=1">
         <img width="590" height="300" alt="PaySecure Merchant" src="https://github.com/user-attachments/assets/71068d0f-2963-48a7-9b95-b53cf3247f4f" />
       </a>
@@ -201,7 +201,7 @@
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>PaySecure Agent</h3>
+      <h3>Paysecure-Agent Mobile App</h3>
       <a href="https://codecanyon.net/item/pay-secure-digital-wallet-application-for-agent-android-ios/58793829?s_rank=2">
         <img width="590" height="300" alt="PaySecure Agent" src="https://github.com/user-attachments/assets/93e278b4-8183-474c-97d6-71eac3070ba7" />
       </a>
