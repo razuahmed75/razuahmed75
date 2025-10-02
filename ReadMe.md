@@ -61,6 +61,7 @@
 # 🚀 My Projects
 
 <table>
+  <!-- First row: Giftily & Golola BillPay -->
   <tr>
     <td align="center" width="50%">
       <h3>Giftily</h3>
@@ -69,8 +70,13 @@
       </a>
       <p>
         🎁 Game Top-Ups & Gift Cards<br/>
-        <a href="https://codecanyon.net/item/gamers-arena-on-demand-game-shop-cross-platform-mobile-application/51225336">Codecanyon</a> |
-        <a href="https://play.google.com/store/apps/details?id=com.giftily.app">Play Store</a>
+        <a href="https://play.google.com/store/apps/details?id=com.giftily.app" target="_blank">
+          <img alt="googleplay" src="https://github.com/user-attachments/assets/e76ddbbc-e01e-40f3-894c-2831ededb6fa" style="width: 40px; height: 40px; object-fit: cover; border-radius: 5px;" />
+        </a>
+        <span style="margin-left: 10px;"></span>
+        <a href="https://codecanyon.net/item/gamers-arena-on-demand-game-shop-cross-platform-mobile-application/51225336" target="_blank">
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+        </a>
       </p>
     </td>
     <td align="center" width="50%">
@@ -80,8 +86,13 @@
       </a>
       <p>
         💳 Bill Payment & Mobile Recharge<br/>
-        <a href="https://razuahmed75.github.io/">Portfolio</a> |
-        <a href="https://play.google.com/store/apps/details?id=com.golalabillpay.app">Play Store</a>
+        <a href="https://play.google.com/store/apps/details?id=com.golalabillpay.app" target="_blank">
+          <img alt="googleplay" src="https://github.com/user-attachments/assets/e76ddbbc-e01e-40f3-894c-2831ededb6fa" style="width: 40px; height: 40px; object-fit: cover; border-radius: 5px;" />
+        </a>
+        <span style="margin-left: 10px;"></span>
+        <a href="https://codecanyon.net/item/bill-pay-topup-recharge-and-utility-bill-payment-mobile-app/50124639?s_rank=26" target="_blank">
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+        </a>
       </p>
     </td>
   </tr>
@@ -89,45 +100,58 @@
   <tr>
     <td align="center" width="50%">
       <h3>AgriWealth</h3>
-      <a href="https://razuahmed75.github.io/">
-        <img width="953" height="446" alt="Stip_Club" src="https://github.com/user-attachments/assets/544c898f-4cd9-4c2c-9612-09da54285b9d" />
+      <a href="https://play.google.com/store/apps/details?id=com.agriwealth.app">
+        <img width="953" height="446" alt="AgriWealth" src="https://github.com/user-attachments/assets/544c898f-4cd9-4c2c-9612-09da54285b9d" />
       </a>
       <p>
         🌱 Agricultural Investment Platform<br/>
-        <a href="https://razuahmed75.github.io/">Portfolio</a>
+        <a href="https://play.google.com/store/apps/details?id=com.agriwealth.app" target="_blank">
+          <img alt="googleplay" src="https://github.com/user-attachments/assets/e76ddbbc-e01e-40f3-894c-2831ededb6fa" style="width: 40px; height: 40px; object-fit: cover; border-radius: 5px;" />
+        </a>
+        <span style="margin-left: 10px;"></span>
+        <a href="https://codecanyon.net/item/agriwealth-agricultural-hyip-investment-mobile-application-android-ios/55396787?s_rank=15" target="_blank">
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+        </a>
       </p>
     </td>
     <td align="center" width="50%">
       <h3>Listplace</h3>
-      <a href="https://razuahmed75.github.io/">
+      <a href="https://codecanyon.net/item/listplace-business-directory-listing-flutter-app-android-ios/57380835?s_rank=10">
         <img width="590" height="300" alt="Listplace" src="https://github.com/user-attachments/assets/b9339b9d-13d5-4711-aa04-bcecda5ac212" />
       </a>
       <p>
         📍 Business Directory Listing<br/>
-        <a href="https://razuahmed75.github.io/">Portfolio</a>
+        <a href="https://codecanyon.net/item/listplace-business-directory-listing-flutter-app-android-ios/57380835?s_rank=10" target="_blank">
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+        </a>
       </p>
     </td>
   </tr>
 
+  <!-- Remaining rows only Envato icon -->
   <tr>
     <td align="center" width="50%">
       <h3>HYIP PRO</h3>
-      <a href="https://razuahmed75.github.io/">
-        <img width="590" height="300" alt="Hyip Pro Mobile App" src="https://github.com/user-attachments/assets/2bcd30de-ea3a-4058-b474-c0dd595979c9" />
+      <a href="https://codecanyon.net/item/hyip-pro-cross-platform-mobile-application/49701045?s_rank=28">
+        <img width="590" height="300" alt="HYIP PRO" src="https://github.com/user-attachments/assets/2bcd30de-ea3a-4058-b474-c0dd595979c9" />
       </a>
       <p>
         💰 Investment Management<br/>
-        <a href="https://razuahmed75.github.io/">Portfolio</a>
+        <a href="https://codecanyon.net/item/hyip-pro-cross-platform-mobile-application/49701045?s_rank=28" target="_blank">
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+        </a>
       </p>
     </td>
     <td align="center" width="50%">
       <h3>Coinectra</h3>
-      <a href="https://razuahmed75.github.io/">
+      <a href="https://codecanyon.net/item/coinectra-buy-sell-and-crypto-currency-exchange-flutter-app-android-ios/58421141?s_rank=6">
         <img width="590" height="300" alt="Coinectra" src="https://github.com/user-attachments/assets/b6bf4d30-e892-4845-8b18-f1994d580ba0" />
       </a>
       <p>
         🪙 Cryptocurrency Exchange Companion<br/>
-        <a href="https://razuahmed75.github.io/">Portfolio</a>
+        <a href="https://codecanyon.net/item/coinectra-buy-sell-and-crypto-currency-exchange-flutter-app-android-ios/58421141?s_rank=6" target="_blank">
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+        </a>
       </p>
     </td>
   </tr>
@@ -135,47 +159,57 @@
   <tr>
     <td align="center" width="50%">
       <h3>Waiz</h3>
-      <a href="https://razuahmed75.github.io/">
+      <a href="https://codecanyon.net/item/waiz-digital-wallet-and-remittance-app-and-website-with-admin-panel/53238316?s_rank=22">
         <img width="590" height="300" alt="Waiz" src="https://github.com/user-attachments/assets/2a7bc050-297b-41ee-80da-3782c390ea1e" />
       </a>
       <p>
         💸 Digital Wallet & Remittance<br/>
-        <a href="https://razuahmed75.github.io/">Portfolio</a>
+        <a href="https://codecanyon.net/item/waiz-digital-wallet-and-remittance-app-and-website-with-admin-panel/53238316?s_rank=22" target="_blank">
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+        </a>
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>PaySecure User </h3>
-      <a href="https://razuahmed75.github.io/">
-        <img width="590" height="300" alt="Paysecure_Mobile_App" src="https://github.com/user-attachments/assets/b2e92853-3fc8-450a-bb64-7ed0200b6c05" />
+      <h3>PaySecure User</h3>
+      <a href="https://codecanyon.net/item/paysecure-digital-wallet-flutter-app-android-ios/58040829?s_rank=7">
+        <img width="590" height="300" alt="PaySecure User" src="https://github.com/user-attachments/assets/b2e92853-3fc8-450a-bb64-7ed0200b6c05" />
       </a>
       <p>
         🔐 Full Digital Wallet Ecosystem<br/>
-        <a href="https://razuahmed75.github.io/">Portfolio</a>
+        <a href="https://codecanyon.net/item/paysecure-digital-wallet-flutter-app-android-ios/58040829?s_rank=7" target="_blank">
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+        </a>
       </p>
     </td>
   </tr>
 
-   <tr>
+  <tr>
     <td align="center" width="50%">
-      <h3>Paysecure-Merchant Mobile App</h3>
-      <a href="https://razuahmed75.github.io/">
-        <img width="590" height="300" alt="Merchant _Mobile_App" src="https://github.com/user-attachments/assets/71068d0f-2963-48a7-9b95-b53cf3247f4f" />
-      </a>
-      <p>
-        💸 Digital Wallet & Remittance<br/>
-        <a href="https://razuahmed75.github.io/">Portfolio</a>
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>Paysecure-Agent Mobile App</h3>
-      <a href="https://razuahmed75.github.io/">
-        <img width="590" height="300" alt="Agent_Mobile_App" src="https://github.com/user-attachments/assets/93e278b4-8183-474c-97d6-71eac3070ba7" />
+      <h3>PaySecure Merchant</h3>
+      <a href="https://codecanyon.net/item/pay-secure-digital-wallet-application-for-merchant-android-ios/58793831?s_rank=1">
+        <img width="590" height="300" alt="PaySecure Merchant" src="https://github.com/user-attachments/assets/71068d0f-2963-48a7-9b95-b53cf3247f4f" />
       </a>
       <p>
         🔐 Full Digital Wallet Ecosystem<br/>
-        <a href="https://razuahmed75.github.io/">Code</a>
+        <a href="https://codecanyon.net/item/pay-secure-digital-wallet-application-for-merchant-android-ios/58793831?s_rank=1" target="_blank">
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+        </a>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>PaySecure Agent</h3>
+      <a href="https://codecanyon.net/item/pay-secure-digital-wallet-application-for-agent-android-ios/58793829?s_rank=2">
+        <img width="590" height="300" alt="PaySecure Agent" src="https://github.com/user-attachments/assets/93e278b4-8183-474c-97d6-71eac3070ba7" />
+      </a>
+      <p>
+        🔐 Full Digital Wallet Ecosystem<br/>
+        <a href="https://codecanyon.net/item/pay-secure-digital-wallet-application-for-agent-android-ios/58793829?s_rank=2" target="_blank">
+          <img alt="envato" src="https://github.com/user-attachments/assets/839afd53-c191-492b-aab1-8a23084777a7" style="width: 40px; height: 40px; object-fit: cover; border-radius: 10px;" />
+        </a>
       </p>
     </td>
   </tr>
 </table>
+
+
 
