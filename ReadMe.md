@@ -55,9 +55,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razuahmed75&show_icons=true&theme=highcontrast" alt="razuahmed75" /></p>
 
-![](https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg)
-
-
 # 🚀 My Projects
 
 <table>
@@ -214,6 +211,9 @@
     </td>
   </tr>
 </table>
+
+
+![](https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg)
 
 
 
