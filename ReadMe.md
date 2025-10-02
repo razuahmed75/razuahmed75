@@ -14,7 +14,7 @@
 - 💬 Ask me about **Dart, Flutter, UX-UI, Andriod, Kotlin, Swift, iOS**
 
 - 📫 How to reach me **razuahmed8641@gmail.com or Direct Contact: +8801706-084790**
-- 📄 Know about my experiences https://rb.gy/l4kbj
+- 📄 Know about my experiences https://tinyurl.com/5e39s8bf
 
 - ⚡ Fun fact **coffee and bugs**
 
@@ -61,7 +61,7 @@
   <!-- First row: Giftily & Golola BillPay -->
   <tr>
     <td align="center" width="50%">
-      <h3>🎁 Giftily Mobile App</h3>
+      <h3>🎁 Giftily Mobile App </h3>
       <a href="https://play.google.com/store/apps/details?id=com.giftily_dz.app&hl=en">
         <img width="954" height="445" alt="Giftily" src="https://github.com/user-attachments/assets/40b99539-c7af-4e69-abc5-1933ddc99104" />
       </a>
