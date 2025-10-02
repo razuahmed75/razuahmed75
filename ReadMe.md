@@ -65,12 +65,12 @@
   <tr>
     <td align="center" width="50%">
       <h3>Giftily</h3>
-      <a href="https://play.google.com/store/apps/details?id=com.giftily.app">
+      <a href="https://play.google.com/store/apps/details?id=com.giftily_dz.app&hl=en">
         <img width="954" height="445" alt="Giftily" src="https://github.com/user-attachments/assets/701a0f6e-7343-460e-ab5f-d068cb5b5500" />
       </a>
       <p>
         🎁 Game Top-Ups & Gift Cards<br/>
-        <a href="https://play.google.com/store/apps/details?id=com.giftily.app" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=com.giftily_dz.app&hl=en" target="_blank">
           <img alt="googleplay" src="https://github.com/user-attachments/assets/e76ddbbc-e01e-40f3-894c-2831ededb6fa" style="width: 40px; height: 40px; object-fit: cover; border-radius: 5px;" />
         </a>
         <span style="margin-left: 10px;"></span>
@@ -81,12 +81,12 @@
     </td>
     <td align="center" width="50%">
       <h3>Golola BillPay</h3>
-      <a href="https://play.google.com/store/apps/details?id=com.golalabillpay.app">
+      <a href="https://play.google.com/store/apps/details?id=com.golala.billpayment&hl=enp">
         <img width="953" height="446" alt="Golala" src="https://github.com/user-attachments/assets/7132c5ce-f9cb-4e00-80f0-3ee83b046d31" />
       </a>
       <p>
         💳 Bill Payment & Mobile Recharge<br/>
-        <a href="https://play.google.com/store/apps/details?id=com.golalabillpay.app" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=com.golala.billpayment&hl=en" target="_blank">
           <img alt="googleplay" src="https://github.com/user-attachments/assets/e76ddbbc-e01e-40f3-894c-2831ededb6fa" style="width: 40px; height: 40px; object-fit: cover; border-radius: 5px;" />
         </a>
         <span style="margin-left: 10px;"></span>
@@ -100,12 +100,12 @@
   <tr>
     <td align="center" width="50%">
       <h3>AgriWealth</h3>
-      <a href="https://play.google.com/store/apps/details?id=com.agriwealth.app">
+      <a href="https://play.google.com/store/apps/details?id=com.stip.club">
         <img width="953" height="446" alt="AgriWealth" src="https://github.com/user-attachments/assets/544c898f-4cd9-4c2c-9612-09da54285b9d" />
       </a>
       <p>
         🌱 Agricultural Investment Platform<br/>
-        <a href="https://play.google.com/store/apps/details?id=com.agriwealth.app" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=com.stip.club" target="_blank">
           <img alt="googleplay" src="https://github.com/user-attachments/assets/e76ddbbc-e01e-40f3-894c-2831ededb6fa" style="width: 40px; height: 40px; object-fit: cover; border-radius: 5px;" />
         </a>
         <span style="margin-left: 10px;"></span>
